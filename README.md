@@ -127,14 +127,10 @@
 
 ## 📬 联系我
 
-[![Blog](https://img.shields.io/badge/Blog-blog.limxia.top-FF6B35?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.limxia.top/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinghuei011@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.limxia.top/)
 
-> *欢迎通过 GitHub Issues、Pull Requests 或我的博客与我交流！*
-
-<!-- TODO: 添加更多社交媒体链接，例如：
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
--->
+> *欢迎通过 GitHub Issues、Pull Requests 或邮件与我交流！*
 
 ---
 
