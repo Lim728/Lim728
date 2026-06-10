@@ -1,76 +1,140 @@
-# Hi there, I'm Lim728 👋
+<div align="center">
 
-## 🚀 关于我
-- 💻 **计算机专业学生** + **AI工具探索者**
-- 🎓 学习方向：计算机科学与技术
-- 🤖 热衷于使用AI工具提升开发效率
-- 💡 相信AI是未来的趋势，正在积极学习和实践
+### Hi there, I'm **Lim728** 👋
 
-## 🎓 教育背景
-- 🏫 **计算机科学与技术专业**
-- 📚 主修课程：
-  - 编程基础：C语言、Python
-  - Web开发：HTML/CSS、JavaScript、React、Node.js
-  - 数据库：SQL、MySQL
-  - 软件工程：需求分析、测试、项目管理
-  - 计算机基础：操作系统、网络、硬件
+**CS Student · AI Explorer · Builder**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+%E6%89%93%E9%80%A0%E6%9C%AA%E6%9D%A5%2C+%E4%B8%80%E8%A1%8C%E4%B8%80%E8%A1%8C%E5%9C%B0;Code+%26+AI+%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%88%9B%E9%80%A0%E8%80%85)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 关于我
+
+```
+┌─────────────────────────────────────────────────────┐
+│  🎓  计算机科学与技术专业在读                          │
+│  🧠  对 AI 应用开发有浓厚兴趣                          │
+│  🔨  喜欢把想法变成真实可用的项目                       │
+│  🌱  永远在路上，永远在学习                             │
+└─────────────────────────────────────────────────────┘
+```
+
+---
 
 ## 🛠️ 技术栈
 
-### 编程语言
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+<div align="center">
 
-### Web开发
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+**Languages**
 
-### 数据库
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI工具
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-0066FF?style=flat&logo=deepseek&logoColor=white)
+**Frameworks & Tools**
 
-## 🤖 我的AI工具使用
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 对话AI
-| 工具 | 用途 |
-|------|------|
-| ChatGPT | 日常对话、代码调试、学习辅助 |
-| Claude | 复杂问题分析、长文本处理 |
-| Gemini | 多模态任务、图像理解 |
-| DeepSeek | 代码生成、技术问题 |
-| Xiaomi MiMo | 中文任务、本地化应用 |
-| Minimax | 对话生成、创意写作 |
+**AI & Tools**
 
-### AI搜索与工具
-| 工具 | 用途 |
-|------|------|
-| Perplexity | AI驱动的研究和搜索 |
-| Elevenlabs | 语音合成、音频项目 |
-| Manus | AI助手、任务自动化 |
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=deepseek&logoColor=white)
 
-### 开发工具
-| 工具 | 用途 |
-|------|------|
-| VibeCodeApp | 快速原型开发 |
-| React Bits | React组件库 |
+</div>
+
+---
+
+## 🌟 项目展示
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔐 [AES 加密工具](https://github.com/Lim728/aes)
+基于 **AES-256-GCM + PBKDF2** 的零信任客户端加密工具
+- ✅ 纯客户端处理，零网络传输
+- ✅ PBKDF2 60,000 次迭代
+- ✅ 中英文双语支持
+
+</td>
+<td align="center" width="50%">
+
+### 🔑 [密码生成器](https://github.com/Lim728/password-generator)
+安全离线密码生成器
+- ✅ 多语言支持（中/英）
+- ✅ 本地 SQLite 数据库
+- ✅ 自动主题切换
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ✨ [提示词优化器](https://github.com/Lim728/prompt-optimizer)
+一款提示词优化器，助力编写高质量提示词
+
+</td>
+<td align="center" width="50%">
+
+*更多项目正在路上... 🚀*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lim728&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim728&layout=compact&theme=radical)
 
-## 🌱 学习路径
-```mermaid
-graph LR
-A[计算机基础] --> B[编程技能]
-B --> C[Web开发]
-C --> D[AI工具应用]
-D --> E[AI集成开发]
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lim728&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim728&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 成长路径
+
+```
+计算机基础 ──▶ 编程技能 ──▶ Web开发 ──▶ AI工具应用 ──▶ AI集成开发
+    │                                        ▲
+    └──────────── 持续学习中 ─────────────────┘
+```
+
+---
+
+## 📬 联系我
+
+> *欢迎通过 GitHub Issues 或 Pull Requests 与我交流！*
+
+<!-- TODO: 添加你的社交媒体链接，例如：
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+-->
+
+---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Lim728&color=blueviolet&style=flat-square)
+
+**⚡ 本仓库由 [CherryClaw](https://github.com/Lim728) (AI Agent) 协助管理**
+
+*Made with ❤️ and a lot of ☕*
+
+</div>
