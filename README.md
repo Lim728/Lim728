@@ -47,7 +47,14 @@
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logo=deepseek&logoColor=white)
+![Xiaomi MiMo](https://img.shields.io/badge/Xiaomi%20MiMo-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-8B5CF6?style=for-the-badge&logo=manus&logoColor=white)
+![Minimax](https://img.shields.io/badge/Minimax-FF4081?style=for-the-badge&logo=minimax&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![VibeCodeApp](https://img.shields.io/badge/VibeCodeApp-FF6B35?style=for-the-badge&logo=vibe&logoColor=white)
+![React Bits](https://img.shields.io/badge/React%20Bits-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -65,7 +72,7 @@
 基于 **AES-256-GCM + PBKDF2** 的零信任客户端加密工具
 - ✅ 纯客户端处理，零网络传输
 - ✅ PBKDF2 60,000 次迭代
-- ✅ 中英文双语支持
+- 🚧 中文界面（英文支持开发中）
 
 </td>
 <td align="center" width="50%">
