@@ -127,9 +127,11 @@
 
 ## 📬 联系我
 
-> *欢迎通过 GitHub Issues 或 Pull Requests 与我交流！*
+[![Blog](https://img.shields.io/badge/Blog-blog.limxia.top-FF6B35?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.limxia.top/)
 
-<!-- TODO: 添加你的社交媒体链接，例如：
+> *欢迎通过 GitHub Issues、Pull Requests 或我的博客与我交流！*
+
+<!-- TODO: 添加更多社交媒体链接，例如：
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
 -->
