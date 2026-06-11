@@ -128,7 +128,7 @@
 
 <div align="center">
 
-**⚡ 本仓库由 [CherryClaw](https://github.com/Lim728) (AI Agent) 协助管理**
+**⚡ 本仓库由 Sparkle ✨ (AI Agent) 协助管理**
 
 *Made with ❤️ and a lot of ☕*
 
