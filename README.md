@@ -107,17 +107,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lim728&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim728&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 成长路径
 
 ```
@@ -138,8 +127,6 @@
 ---
 
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=Lim728&color=blueviolet&style=flat-square)
 
 **⚡ 本仓库由 [CherryClaw](https://github.com/Lim728) (AI Agent) 协助管理**
 
