@@ -88,8 +88,11 @@
 <tr>
 <td align="center" width="50%">
 
-### ✨ [提示词优化器](https://github.com/Lim728/prompt-optimizer)
-一款提示词优化器，助力编写高质量提示词
+### 📰 [limnew](https://github.com/Lim728/limnew)
+新闻聚合 · AI 模型上下文排行榜
+- ✅ BBC RSS 实时新闻 + OpenRouter AI 排行榜
+- ✅ React 19 + TypeScript + Vite 8
+- ✅ WebGL 极光背景 + GSAP 动画
 
 </td>
 <td align="center" width="50%">
