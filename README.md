@@ -69,10 +69,13 @@
 <td align="center" width="50%">
 
 ### 🔐 [AES 加密工具](https://github.com/Lim728/aes)
-基于 **AES-256-GCM + PBKDF2** 的零信任客户端加密工具
-- ✅ 纯客户端处理，零网络传输
-- ✅ PBKDF2 60,000 次迭代
-- 🚧 中文界面（英文支持开发中）
+> 🔗 [在线体验](https://aes-eight.vercel.app/)
+
+基于 **AES-256-GCM + PBKDF2** 的零信任客户端加密工具 v3.1
+- ✅ 文本加密 + 文件（ZIP）加密
+- ✅ 中英文双语 + 深色/浅色主题
+- ✅ 防暴力破解 + CSP 安全策略
+- ✅ 单文件架构，零外部依赖
 
 </td>
 <td align="center" width="50%">
